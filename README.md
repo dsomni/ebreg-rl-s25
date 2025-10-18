@@ -1,5 +1,4 @@
-# EBREG-RL: Example-Based Regular Expression Generator
-via Reinforcement Learning
+# EBREG-RL: Example-Based Regular Expression Generator via Reinforcement Learning
 
 Dmitry Beresnev / <d.beresnev@innopolis.university>, 
 
