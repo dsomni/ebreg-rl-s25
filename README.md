@@ -1,4 +1,5 @@
-# Reinforcement Learning S25 Project
+# EBREG-RL: Example-Based Regular Expression Generator
+via Reinforcement Learning
 
 Dmitry Beresnev / <d.beresnev@innopolis.university>, 
 
@@ -11,6 +12,8 @@ Nikita Yaneev / <n.yaneev@innopolis.university>
 We propose a new approach that leverages reinforcement learning (RL) to generate regular expression.
 This method formulates the regular expression generation process as a Markov decision process (MDP)
 with fully-observable deterministic episodic environment.
+
+Done as Reinforcement Learning S25 Project
 
 ## Requirements
 
